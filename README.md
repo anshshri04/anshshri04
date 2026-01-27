@@ -1,6 +1,12 @@
 # 💫 About Me:
 B.Tech CSE (AI & ML) student at Technocrats Institute of Technology, Bhopal.<br>Learning Web Development | Skilled in C, Python, SQL & DBMS.<br>Hackathon participant with strong interest in Data Science & App Development.
 
+## 🚀 Projects
+- 🎬 **Netflix Clone** (HTML + CSS)
+-   Responsive Netflix landing page clone with modern UI  
+  🔗 https://anshshri04.github.io/netflix-clone/
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz___ansh___shrivastava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-khare-232ab5385/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshkhare0447@gmail.com) 
